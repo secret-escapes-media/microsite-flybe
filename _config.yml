@@ -1,11 +1,11 @@
 # Site settings
-title: Flybe
+title: Spring Staycations
 client:
   name: Flybe
   link: https://www.flybe.com/
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Rediscover Britain with our pick of spring staycations. Start your travel season early with a quick and easy getaway, flying with Flybe to a choice selection of destinations. From the down to earth atmosphere of Glasgow to the wild charms of Jersey, give yourself the chance to escape this spring. Where will Flybe take you?
 
 # file paths
 url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
