@@ -6,7 +6,7 @@
   font-family: $font-title-01;
   line-height: 1.1;
   font-weight: 400;
-  letter-spacing: -.1rem;
+  letter-spacing: -.125rem;
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -26,6 +26,12 @@
     &--xs     { font-size: $s3; }
     &--xxs    { font-size: $s2; }
     &--xxxs   { font-size: $s1; }
+  }
+  &--comp {
+    font-size: $s9;
+    text-transform: uppercase;
+    letter-spacing: .5rem;
+    line-height: 1.125;
   }
 
 }
@@ -79,10 +85,9 @@
 
 .banner-title {
   // custom banner headline
-  font-family: $font-title-02;
+  font-family: $font-title-01;
   text-transform: uppercase;
-  font-weight: 500;
-  font-style: italic;
+  font-weight: 400;
   letter-spacing: .5rem;
   line-height: 1.05;
   font-size: $s5;

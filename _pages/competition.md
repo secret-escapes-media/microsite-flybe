@@ -6,8 +6,8 @@ nav-order: 4
 permalink: /competition/
 
 title: Compet&shy;ition
-long-title: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque. Tenetur consequatur quam maiores odit, adipisci nostrum numquam quo mollitia eligendi! Debitis, culpa impedit, ex esse fugit enim quibusdam!
+long-title: Win your spring getaway to Edinburgh
+intro: Head for the irresistible charms of the Athens of the North – Edinburgh. Sink into boutique luxury with a stay at the gorgeous Bonham Hotel, a 19th-century townhouse that embellishes period features with contemporary design flair. For two nights, you can explore this vibrant northern capital, discovering its colourful culture and vibrant nightlife. Start your morning with breakfast at the hotel, before leaving your West End pad for a spot of urban exploration. You’ll be treated to dinner on one night, with the other perfect for sinking your teeth into Edinburgh’s trendy dining scene. With flights from Flybe, everything is taken care of; all you need to do is start planning your itinerary!
 enter-cta: Enter Now
 
 competition-form:

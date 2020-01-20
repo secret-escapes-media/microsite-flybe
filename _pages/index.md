@@ -55,21 +55,23 @@ destinations:
   <div class="container vpad--xxl">
     <div class="width width--lg text--center">
       <p class="text--xxxl">{{site.description}}</p>
+      <div class="space--sm"></div>
+      <a class="btn btn--outline btn--outline-purple" href="{{site.client.link}}">See flights</a>
     </div>
   </div>
 </div>
 
 <div>
   {% for item in page.destinations %}
-    <div class="harvey{% cycle: '', ' harvey--swap' %}">
+    <div id="{{item.id}}" class="harvey{% cycle: '', ' harvey--swap' %}">
       <div class="harvey__img" style="background-image: url({{site.img}}/content/{{page.id}}/{{item.id}}.jpg);">
         <a class="harvey__link" href="{{item.link}}"></a>
       </div>
       <div class="harvey__text">
-        <h2 class="title title--xxl">{{item.title}}</h2>
+        <h2 class="title title--xl">{{item.title}}</h2>
         <p class="text--xl">{{item.description}}</p>
         <div class="space--sm"></div>
-        <a class="btn btn--purple" href="{{item.link}}">See flights</a>
+        <a class="btn btn--purple" href="{{item.link}}">Book flights</a>
       </div>
     </div>
   {% endfor %}
