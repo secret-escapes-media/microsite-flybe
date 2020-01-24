@@ -17,12 +17,12 @@ destinations:
 
 - id: manchester
   title: Manchester
-  description: The north’s capital of cool, Manchester is a buzzing hotbed of art, music and style. Get your shopping fix at the Arndale, or head for the renowned boutiques of the Northern Quarter, whilst dipping into trendy roasteries and coffee hangouts for a caffeine fix. Discover street art and grand museums, contemporary galleries and iconic industrial architecture. At night, the red-brick warehouses of the Northern Quarter become home to the city’s best bars and nightspots, with craft breweries and music venues offering revelrous nights that continue into the early hours. Get in on the Madchester scene and discover a city that went from industrial to cultural powerhouse.
+  description: The north’s capital of cool, Manchester is a buzzing hotbed of art, music and style. Get your shopping fix at the Arndale, or head for the renowned boutiques of the Northern Quarter, whilst dipping into trendy roasteries and coffee hangouts for a caffeine fix. Discover street art and grand museums, contemporary galleries and iconic industrial architecture. At night, the red-brick warehouses of the Northern Quarter become home to the city’s best bars and nightspots, with craft breweries and music venues offering revelrous nights that continue into the early hours. Get in on the ‘Madchester scene’ and discover a city that went from industrial to cultural powerhouse.
   link: https://www.flybe.com/cheap-flights/manchester
 
 - id: jersey
   title: Jersey
-  description: The largest of the Channel Islands, Jersey is a wild island escape. A windswept coastline is dotted by gorgeous beaches, quaint fishing villages and craggy cliffs, but the treasures don’t stop there. Inland, rambling country lanes criss-cross the island, connecting villages, towns, castles and beguiling scenery. Meet the island’s producers at St Helier food market and feast on fine local fare, stop at a pub for a sunset drink on the coast, and spend your days discovering the island’s remarkable history. Set out to unpick the Jersey wilds, with excellent hiking, cycling and walking routes. Head for your island escape.
+  description: The largest of the Channel Islands, Jersey is a wild island escape. A windswept coastline is dotted by gorgeous beaches, quaint fishing villages and craggy cliffs, but the treasures don’t stop there. Inland, rambling country lanes criss-cross the island, connecting villages, towns, castles and beguiling scenery. Meet the island’s artisan producers at St Helier food market and feast on fine local fare, stop at a pub for a sunset drink on the coast, and spend your days discovering the island’s remarkable history. Set out to unpick the Jersey wilds, with excellent hiking, cycling and walking routes. Head for your island escape.
   link: https://www.flybe.com/cheap-flights/jersey
 
 - id: belfast
@@ -47,7 +47,7 @@ destinations:
 
 - id: exeter
   title: Exeter
-  description: This bustling university town is packed with old-world charms. Roman foundations and a medieval heart lie along the river Exe, accompanied by waterside pubs and beer gardens perfect for those long nights ahead. Marvel at the impressive cathedral, a lofty Norman fortress with an intricate facade, before unpicking the cobbled streets filled with cafes and shops. With its student population informing the arts and music scenes, Exeter also promises a culturally-charged night out. Unwind in a homely pub before heading to one of a few live music venues and annual festivals.
+  description: This bustling university town is packed with old-world charms. Roman foundations and a medieval heart lie along the river Exe, accompanied by waterside pubs and beer gardens perfect for those long summer nights. Marvel at the impressive cathedral, a lofty Norman fortress with an intricate facade, before unpicking the cobbled streets filled with cafes and shops. With its student population informing the arts and music scenes, Exeter also promises a culturally-charged night out. Unwind in a homely pub before heading to one of a few live music venues and annual festivals.
   link: https://www.flybe.com/cheap-flights/exeter
 ---
 

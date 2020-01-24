@@ -5,7 +5,7 @@ client:
   link: https://www.flybe.com/
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Rediscover Britain with our pick of spring staycations. Start your travel season early with a quick and easy getaway, flying with Flybe to a choice selection of destinations. From the down to earth atmosphere of Glasgow to the wild charms of Jersey, give yourself the chance to escape this spring. Where will Flybe take you?
+  Rediscover Britain with our pick of spring staycations. Start your travel season early with a quick and easy getaway, flying with Flybe to a variety of destinations. From the down to earth atmosphere of Glasgow to the wild charms of Jersey, give yourself the chance to escape this spring. Where will Flybe take you?
 
 # file paths
 url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
