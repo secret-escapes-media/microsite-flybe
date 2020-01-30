@@ -37,7 +37,7 @@ competition-form:
           invalid: true
     - id: opt-in
       type: radio
-      label: Would you like to receive emails from our Flybe?
+      label: Would you like to receive emails from Flybe?
       required: true
       options:
         - id: opt-in-true
