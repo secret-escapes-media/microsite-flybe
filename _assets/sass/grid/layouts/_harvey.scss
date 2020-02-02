@@ -1,7 +1,7 @@
 .harvey {
 
   // harvey breakpoint
-  $bp: $xxl;
+  $bp: $xxxl;
 
   // default styles
   display: flex;
@@ -37,7 +37,7 @@
     align-self: stretch;
     padding-top: 100%;
     @include background-attributes;
-    @include bp($md) { padding-top: 66.66%; }
+    @include bp($md) { padding-top: 56.25%; }
     @include bp($bp) { padding-top: 0; }
   }
   &__link {

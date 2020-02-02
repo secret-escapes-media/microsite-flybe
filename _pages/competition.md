@@ -5,6 +5,8 @@ nav: true
 nav-order: 4
 permalink: /competition/
 
+promo: Head for the irresistible charms of the Athens of the North – Edinburgh. Sink into boutique luxury with a stay at the gorgeous Bonham Hotel, a 19th-century townhouse that embellishes period features with contemporary design flair.
+
 title: Compet&shy;ition
 long-title: Win your spring getaway to Edinburgh
 intro: Head for the irresistible charms of the Athens of the North – Edinburgh. Sink into boutique luxury with a stay at the gorgeous Bonham Hotel, a 19th-century townhouse that embellishes period features with contemporary design flair. For two nights, you can explore this vibrant northern capital, discovering its colourful culture and vibrant nightlife. Start your morning with breakfast at the hotel, before leaving your West End pad for a spot of urban exploration. You’ll be treated to dinner on one night, with the other perfect for sinking your teeth into Edinburgh’s trendy dining scene. With flights from Flybe, everything is taken care of; all you need to do is start planning your itinerary!
@@ -12,7 +14,7 @@ enter-cta: Enter Now
 
 competition-form:
   id: comp
-  post-url: "#getFormUrl"
+  post-url: "https://getform.io/f/7b9b41b3-0d47-4890-941e-e3037fc8649b"
   expiry-date: 2050-01-01
   fields:
     - id: name

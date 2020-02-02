@@ -65,13 +65,13 @@ destinations:
   {% for item in page.destinations %}
     <div id="{{item.id}}" class="harvey{% cycle: '', ' harvey--swap' %}">
       <div class="harvey__img" style="background-image: url({{site.img}}/content/{{page.id}}/{{item.id}}.jpg);">
-        <a class="harvey__link" href="{{item.link}}"></a>
+        <a class="harvey__link" href="{{item.link}}" id="track-destination-{{item.id}}-img"></a>
       </div>
       <div class="harvey__text">
         <h2 class="title title--xl">{{item.title}}</h2>
         <p class="text--xl">{{item.description}}</p>
         <div class="space--sm"></div>
-        <a class="btn btn--purple" href="{{item.link}}">Book flights</a>
+        <a class="btn btn--purple" href="{{item.link}}" id="track-destination-{{item.id}}-btn">Book flights</a>
       </div>
     </div>
   {% endfor %}

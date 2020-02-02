@@ -6,6 +6,10 @@ nav: true
 nav-order: 2
 permalink: /offers/
 intro: Complete your getaway with a gorgeous hotel. From all-out luxury to boutique cool, find your deal here.
+
+banner:
+  title: >
+    <span class="banner-title--lg">Offers</span>
 ---
 
 <div class="bg--light">
