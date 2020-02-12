@@ -1,14 +1,4 @@
 
-- title: Stylish mystery Edinburgh hotel
-  location: Edinburgh, Scotland
-  description: Discover historic Edinburgh from modish modern digs
-  price: 68
-  price-description: per room per night
-  saved: 44
-  expires: 2020/02/11
-  image: https://secretescapes-web.imgix.net/sales/54788/2a52dcea_72e2_4923_9afa_cc5923cd5aad.jpg?auto=format,compress
-  link: https://www.secretescapes.com/stylish-mystery-edinburgh-hotel-1/sale
-
 - title: Hotel Brooklyn
   location: Manchester, Greater Manchester
   description: Big Apple vibes at an NYC-themed hotel in central Manchester
@@ -39,4 +29,42 @@
   image: https://secretescapes-web.imgix.net/sales/25752/0baf81e0_2cea_425d_8ae7_41c75be56332.jpg?auto=format,compress
   link: https://www.secretescapes.com/new-park-manor-new-forest-hampshire/sale
 
+- title: Hotel Gotham
+  location: City Centre, Manchester
+  description: Five-star boutique Manchester bolthole
+  price: 119
+  price-description: per room per night
+  saved: 30
+  expires: 2020/02/18
+  image: https://secretescapes-web.imgix.net/sales/32790/c0b0173b_6b9d_4ffd_919d_3f149ee15ee8.jpg?auto=format,compress
+  link: https://www.secretescapes.com/hotel-gotham-city-centre-manchester/sale
 
+- title: Great John Street - An Eclectic Townhouse Hotel
+  location: Great John Street, Manchester
+  description: A Manchester hotel that exudes style and individuality
+  price: 109
+  price-description: per room per night
+  saved: 38
+  expires: 2020/02/25
+  image: https://secretescapes-web.imgix.net/sales/109884/dead7f4d_39be_4530_b25a_eebd886fe8f8.jpg?auto=format,compress
+  link: https://www.secretescapes.com/great-john-street-an-eclectic-townhouse-hotel-great-john-street-manchester/sale
+
+- title: Radisson Collection Hotel, Royal Mile Edinburgh
+  location: Edinburgh, Scotland
+  description: Quirky boutique stay in old-town Edinburgh
+  price: 115
+  price-description: per room per night
+  saved: 44
+  expires: 2020/02/25
+  image: https://secretescapes-web.imgix.net/sales/92598/cbb08ca4_3584_4913_b43b_2f9628ffa285.jpg?auto=format,compress
+  link: https://www.secretescapes.com/radisson-collection-hotel-royal-mile-edinburgh-edinburgh-scotland/sale
+
+- title: Park Regis Birmingham
+  location: Birmingham, West Midlands
+  description: Polished Birmingham hotel located in the city centre
+  price: 79
+  price-description: per room per night
+  saved: 62
+  expires: 2020/02/25
+  image: https://secretescapes-web.imgix.net/sales/69538/77ed0704_1dcf_4e57_aa20_9968bcce3465.jpg?auto=format,compress
+  link: https://www.secretescapes.com/park-regis-birmingham-birmingham-west-midlands/sale
