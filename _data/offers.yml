@@ -1,23 +1,5 @@
 
-- title: Hotel Brooklyn
-  location: Manchester, Greater Manchester
-  description: Big Apple vibes at an NYC-themed hotel in central Manchester
-  price: 99
-  price-description: per room per night
-  saved: 36
-  expires: 2020/02/11
-  image: https://secretescapes-web.imgix.net/sales/108598/4426451b_9486_4f5b_864a_8f42878ef5ea.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hotel-brooklyn-greater-manchester/sale
 
-- title: Park Inn by Radisson Belfast
-  location: Belfast, Northern Ireland
-  description: Bang-central Belfast hotel near the sights
-  price: 45
-  price-description: per room per night
-  saved: 40
-  expires: 2020/02/11
-  image: https://secretescapes-web.imgix.net/sales/102318/db7ab048_ff59_444b_89b9_33b0e55f71d2.jpg?auto=format,compress
-  link: https://www.secretescapes.com/park-inn-by-radisson-belfast-belfast-northern-ireland/sale
 
 - title: New Park Manor
   location: New Forest, Hampshire
@@ -28,16 +10,6 @@
   expires: 2020/02/11
   image: https://secretescapes-web.imgix.net/sales/25752/0baf81e0_2cea_425d_8ae7_41c75be56332.jpg?auto=format,compress
   link: https://www.secretescapes.com/new-park-manor-new-forest-hampshire/sale
-
-- title: Hotel Gotham
-  location: City Centre, Manchester
-  description: Five-star boutique Manchester bolthole
-  price: 119
-  price-description: per room per night
-  saved: 30
-  expires: 2020/02/18
-  image: https://secretescapes-web.imgix.net/sales/32790/c0b0173b_6b9d_4ffd_919d_3f149ee15ee8.jpg?auto=format,compress
-  link: https://www.secretescapes.com/hotel-gotham-city-centre-manchester/sale
 
 - title: Great John Street - An Eclectic Townhouse Hotel
   location: Great John Street, Manchester
@@ -68,3 +40,43 @@
   expires: 2020/02/25
   image: https://secretescapes-web.imgix.net/sales/69538/77ed0704_1dcf_4e57_aa20_9968bcce3465.jpg?auto=format,compress
   link: https://www.secretescapes.com/park-regis-birmingham-birmingham-west-midlands/sale
+
+- title: Best Western Chilworth Manor Hotel
+  location: Near the New Forest, Hampshire
+  description: Charming Hampshire hotel near the New Forest
+  price: 99
+  price-description: per room per night
+  saved: 33
+  expires: 2020/03/03
+  image: https://secretescapes-web.imgix.net/sales/91905/96d080be_040e_4c6e_8f53_276b98a208c2.jpg?auto=format,compress
+  link: https://www.secretescapes.com/best-western-chilworth-manor-hotel-near-the-new-forest-hampshire/sale
+
+- title: Radisson Blu Hotel, Belfast
+  location: Belfast, Northern Ireland
+  description: Stylish Belfast riverside stay in the heart of the city
+  price: 51
+  price-description: per room per night
+  saved: 53
+  expires: 2020/03/03
+  image: https://secretescapes-web.imgix.net/sales/28269/34edc115_4c0a_4eb0_9081_d1d550950d31.jpg?auto=format,compress
+  link: https://www.secretescapes.com/radisson-blu-hotel-belfast-belfast-northern-ireland/sale
+
+- title: New Place Hotel
+  location: Shirrell Heath, Southampton
+  description: Grade I-listed manor house near the South Downs
+  price: 99
+  price-description: per room per night
+  saved: 38
+  expires: 2020/03/03
+  image: https://secretescapes-web.imgix.net/sales/73918/9c38bbb8_9511_4c05_b3b0_6c2e52c4c46a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/new-place-hotel-shirrell-heath-southampton-uk/sale
+
+- title: Manchester Marriott Victoria & Albert Hotel
+  location: City Centre, Manchester
+  description: Stylish riverside warehouse conversion stay in Manchester
+  price: 79
+  price-description: per room per night
+  saved: 53
+  expires: 2020/03/03
+  image: https://secretescapes-web.imgix.net/sales/60244/4431ffa5_5dee_4c03_86cb_1ed9eee52ed7.jpg?auto=format,compress
+  link: https://www.secretescapes.com/manchester-marriott-victoria-and-albert-hotel-city-centre-manchester/sale
