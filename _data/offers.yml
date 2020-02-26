@@ -1,43 +1,13 @@
 
 
 
-- title: New Park Manor
-  location: New Forest, Hampshire
-  description: A relaxing New Forest stay in a former hunting lodge with spa
-  price: 119
-  price-description: per room per night
-  saved: 47
-  expires: 2020/02/11
-  image: https://secretescapes-web.imgix.net/sales/25752/0baf81e0_2cea_425d_8ae7_41c75be56332.jpg?auto=format,compress
-  link: https://www.secretescapes.com/new-park-manor-new-forest-hampshire/sale
-
-- title: Great John Street - An Eclectic Townhouse Hotel
-  location: Great John Street, Manchester
-  description: A Manchester hotel that exudes style and individuality
-  price: 109
-  price-description: per room per night
-  saved: 38
-  expires: 2020/02/25
-  image: https://secretescapes-web.imgix.net/sales/109884/dead7f4d_39be_4530_b25a_eebd886fe8f8.jpg?auto=format,compress
-  link: https://www.secretescapes.com/great-john-street-an-eclectic-townhouse-hotel-great-john-street-manchester/sale
-
-- title: Radisson Collection Hotel, Royal Mile Edinburgh
-  location: Edinburgh, Scotland
-  description: Quirky boutique stay in old-town Edinburgh
-  price: 115
-  price-description: per room per night
-  saved: 44
-  expires: 2020/02/25
-  image: https://secretescapes-web.imgix.net/sales/92598/cbb08ca4_3584_4913_b43b_2f9628ffa285.jpg?auto=format,compress
-  link: https://www.secretescapes.com/radisson-collection-hotel-royal-mile-edinburgh-edinburgh-scotland/sale
-
 - title: Park Regis Birmingham
   location: Birmingham, West Midlands
   description: Polished Birmingham hotel located in the city centre
   price: 79
   price-description: per room per night
   saved: 62
-  expires: 2020/02/25
+  expires: 2020/03/03
   image: https://secretescapes-web.imgix.net/sales/69538/77ed0704_1dcf_4e57_aa20_9968bcce3465.jpg?auto=format,compress
   link: https://www.secretescapes.com/park-regis-birmingham-birmingham-west-midlands/sale
 
@@ -80,3 +50,34 @@
   expires: 2020/03/03
   image: https://secretescapes-web.imgix.net/sales/60244/4431ffa5_5dee_4c03_86cb_1ed9eee52ed7.jpg?auto=format,compress
   link: https://www.secretescapes.com/manchester-marriott-victoria-and-albert-hotel-city-centre-manchester/sale
+
+- title: Macdonald Manchester Hotel
+  location: Piccadilly, Manchester
+  description: Sleek Manchester base with award-winning dining
+  price: 89
+  price-description: per room per night
+  saved: 56
+  expires: 2020/03/10
+  image: https://secretescapes-web.imgix.net/sales/110754/90174d03_2782_4034_9ab4_38eb95c2b75d.jpg?auto=format,compress
+  link: https://www.secretescapes.com/macdonald-manchester-hotel-piccadilly-manchester/sale
+
+- title: Radisson RED Glasgow
+  location: Glasgow, Scotland
+  description: Embrace Glasgow's infectious energy from this modern and modish hotel
+  price: 68
+  price-description: per room per night
+  saved: 38
+  expires: 2020/03/10
+  image: https://secretescapes-web.imgix.net/sales/99470/7bcca473_035d_458d_9904_5e44b1590b6c.jpg?auto=format,compress
+  link: https://www.secretescapes.com/radisson-red-glasgow-glasgow-scotland/sale
+
+- title: Clayton Hotel Birmingham
+  location: City Centre, Birmingham
+  description: Chic and modern stay in the heart of Birmingham
+  price: 89
+  price-description: per room per night
+  saved: 61
+  expires: 2020/03/10
+  image: https://secretescapes-web.imgix.net/sales/30646/86043673_36d2_4433_85af_f47e2a8bc884.jpg?auto=format,compress
+  link: https://www.secretescapes.com/clayton-hotel-birmingham-city-centre-birmingham/sale
+
