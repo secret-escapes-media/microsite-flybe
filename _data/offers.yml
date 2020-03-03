@@ -21,16 +21,6 @@
   image: https://secretescapes-web.imgix.net/sales/91905/96d080be_040e_4c6e_8f53_276b98a208c2.jpg?auto=format,compress
   link: https://www.secretescapes.com/best-western-chilworth-manor-hotel-near-the-new-forest-hampshire/sale
 
-- title: Radisson Blu Hotel, Belfast
-  location: Belfast, Northern Ireland
-  description: Stylish Belfast riverside stay in the heart of the city
-  price: 51
-  price-description: per room per night
-  saved: 53
-  expires: 2020/03/03
-  image: https://secretescapes-web.imgix.net/sales/28269/34edc115_4c0a_4eb0_9081_d1d550950d31.jpg?auto=format,compress
-  link: https://www.secretescapes.com/radisson-blu-hotel-belfast-belfast-northern-ireland/sale
-
 - title: New Place Hotel
   location: Shirrell Heath, Southampton
   description: Grade I-listed manor house near the South Downs
@@ -80,4 +70,34 @@
   expires: 2020/03/10
   image: https://secretescapes-web.imgix.net/sales/30646/86043673_36d2_4433_85af_f47e2a8bc884.jpg?auto=format,compress
   link: https://www.secretescapes.com/clayton-hotel-birmingham-city-centre-birmingham/sale
+
+- title: Radisson RED Glasgow
+  location: Glasgow, Scotland
+  description: Embrace Glasgow's infectious energy from this modern and modish hotel
+  price: 72
+  price-description: per room per night
+  saved: 38
+  expires: 2020/03/10
+  image: https://secretescapes-web.imgix.net/sales/99470/7bcca473_035d_458d_9904_5e44b1590b6c.jpg?auto=format,compress
+  link: https://www.secretescapes.com/radisson-red-glasgow-glasgow-scotland/sale
+
+- title: New Hall Hotel & Spa
+  location: Sutton Coldfield, Birmingham
+  description: Palatial historic hotel and spa in Birmingham
+  price: 149
+  price-description: per room per night
+  saved: 36
+  expires: 2020/03/17
+  image: https://secretescapes-web.imgix.net/sales/96752/5f854e84_2375_4282_907d_2e0f70ba2b90.jpg?auto=format,compress
+  link: https://www.secretescapes.com/new-hall-hotel-and-spa-sutton-coldfield-birmingham/sale
+
+- title: Yotel Edinburgh
+  location: Edinburgh, Scotland
+  description: Modern Edinburgh hotel close to the city’s best sights
+  price: 65
+  price-description: per room per night
+  saved: 53
+  expires: 2020/03/17
+  image: https://secretescapes-web.imgix.net/sales/105210/9503e465_c4f2_4737_be00_cf9736277b66.jpg?auto=format,compress
+  link: https://www.secretescapes.com/yotel-edinburgh-edinburgh-scotland/sale
 
